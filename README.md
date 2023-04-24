@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Meher</h1>
 <h3 align="center">An individual with a strong passion for interior & UIUX designer hailing from India.</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samruddhimeher&label=Profile%20views&color=0e75b6&style=flat" alt="samruddhimeher" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samruddhimeher" alt="samruddhimeher" /></a> </p>
